@@ -92,6 +92,31 @@ li:nth-child(5) {
   z-index: 100;
 }
 
+.img-list .img1::after,
+.img-list .img5::after{
+  content: "";
+  background: rgba(0,0,0,0.5);
+  border-radius: var(--radius);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.img-list .img2::after,
+.img-list .img4::after{
+  content: "";
+  background: rgba(0,0,0,0.3);
+  border-radius: var(--radius);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+
 /* button */
 .move-btn{
   width: 140px;
