@@ -1,4 +1,4 @@
-# 🎞clone_CardSlide  
+# 🎞clone_card-slide  
 > 배포페이지 : https://chochohee.github.io/clone_CardSlide/  
 >   🛠 사용 기술스택 : ![image](https://github.com/user-attachments/assets/6d3cf9db-5fa3-45f9-97a6-80a723209db2) ![image](https://github.com/user-attachments/assets/959db8e7-3aff-4506-b45f-8c828ed9f98f)
 
